@@ -1,0 +1,16 @@
+[
+    {
+      "title": "Project 1",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an transition application.",
+      "skills": ["React", "javascript", "html","css"],
+      "source": "https://github.com/Deepa-GT/major"
+    },
+    {
+      "title": "Project 2",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building Drum Kit.",
+      "skills": [ "javascript","CSS", "Html"],
+      "source": "https://github.com/Deepa-GT/project2"
+    }]
+   
